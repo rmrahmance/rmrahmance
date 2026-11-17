@@ -8,8 +8,7 @@ I am a civil engineer from Bangladesh and an M.Sc. student in Integrated Water R
 
 #### Now
 
-- Student research assistant at the Institute for Technology and Resources Management (ITT), TH Köln, in the Germany–Bangladesh **Web-AIS** project. I map Boro rice from Earth observation data in four pilot upazilas, with validation against 2,000+ georeferenced field samples.
-- Co-authoring a manuscript (in preparation) on machine-learning-based evapotranspiration downscaling.
+- Student research assistant at the Institute for Technology and Resources Management (ITT), TH Köln, in the Germany–Bangladesh **Web-AIS** project.
 
 #### Before
 
